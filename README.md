@@ -1,8 +1,5 @@
 # VikingTooltips
 
-##Do not use at this point in time. 
-They are not supported right now as they break tradeskills adoon. And the latest ActionBarFrame doesn't work with this version
-
 ![VikingTooltips](https://cloud.githubusercontent.com/assets/4333206/3357101/a7cf29cc-facb-11e3-8a59-41723a1dceee.png)
 ![VikingTooltips](https://cloud.githubusercontent.com/assets/4333206/3357106/abdf61b2-facb-11e3-8e2b-54d095c558d7.png)
 ![VikingTooltips](https://cloud.githubusercontent.com/assets/4333206/3357104/a9db03da-facb-11e3-9df0-7fbd9c78f75b.png)
